@@ -18,9 +18,7 @@ function Body() {
               <div className="github"><a href="https://github.com/meenakshisureshbabu" target="_blank"><img className="github-icon" src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" alt="github"/></a></div>
               <div className="linkedin"><a href="https://www.linkedin.com/in/meenakshisb/" target="_blank"><img className="linkedin-icon" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png" alt="linkedin"/></a></div>
           </div>
-          <div className="game-div">
-              <div><h4 style={{color:"white"}}> Get motivated!! Test your vocabulary knowledge through a game</h4><a href="https://vanishman.onrender.com/" target="_blank">VanishMan Game</a></div>
-          </div>
+          
         </div>
       </div>
     </div>

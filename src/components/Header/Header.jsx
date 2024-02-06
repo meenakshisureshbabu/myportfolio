@@ -5,10 +5,10 @@ import { Link } from 'react-router-dom'
 function Header() {
 
   const handleresumeClick = () => {
-    const pdf = "Meenakshi.pdf";
+    const pdf = "Meenakshi Sundari Suresh Babu.docx";
     const link = document.createElement("a");
     link.href = pdf;
-    link.download = "Meenakshi_Resume.pdf";
+    link.download = "Meenakshi Sundari Suresh Babu.docx";
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

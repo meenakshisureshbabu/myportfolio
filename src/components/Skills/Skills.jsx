@@ -36,6 +36,12 @@ function Skills() {
             <div>
                 <img className='skillimage' src="https://blog.logrocket.com/wp-content/uploads/2020/12/express-middlewares-complete-guide.png"/>
             </div>
+            <div>
+                <img className='skillimage' src="https://200ok.ch/img/technologies/react-testing-library.png"/>
+            </div>
+            <div>
+                <img className='skillimage' src="https://miro.medium.com/v2/resize:fit:600/1*i37IyHf6vnhqWIA9osxU3w.png"/>
+            </div>
             </div>
         </div>
     </div>
