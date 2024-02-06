@@ -24,3 +24,54 @@
     flex-direction: column;
     justify-content: center;
 }
+
+.csstooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+
+.html:hover .csstooltiptext {
+    visibility: visible;
+}
+.css:hover .csstooltiptext {
+    visibility: visible;
+}
+.JS:hover .csstooltiptext {
+    visibility: visible;
+}
+.java:hover .csstooltiptext {
+    visibility: visible;
+}
+.node:hover .csstooltiptext {
+    visibility: visible;
+}
+.mongo:hover .csstooltiptext {
+    visibility: visible;
+}
+.reacttest:hover .csstooltiptext {
+    visibility: visible;
+}
+.express:hover .csstooltiptext {
+    visibility: visible;
+}
+.react:hover .csstooltiptext {
+    visibility: visible;
+}
+.sql:hover .csstooltiptext {
+    visibility: visible;
+}
+.oracle:hover .csstooltiptext {
+    visibility: visible;
+}
+.jest:hover .csstooltiptext {
+    visibility: visible;
+}
